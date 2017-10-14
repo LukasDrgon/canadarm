@@ -2,6 +2,7 @@
 
 [![Build Status](https://api.travis-ci.org/cerner/canadarm.svg)][travis]
 [![Code Climate](https://codeclimate.com/github/cerner/canadarm/badges/gpa.svg)][codeclimate]
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/canadarm/badge?style=rounded)](jsdelivr)
 
 [travis]: https://travis-ci.org/cerner/canadarm
 [codeclimate]: https://codeclimate.com/github/cerner/canadarm
@@ -23,7 +24,7 @@ Canadarm can be installed in the following ways:
 
 * Reference a hosted version provided by [jsdelivr][jsdelivr]:
 
-  `https://cdn.jsdelivr.net/canadarm/1.0.2/canadarm.min.js`
+  `https://cdn.jsdelivr.net/npm/canadarm@1.0.2/build/canadarm.min.js`
 
 # Using canadarm
 
